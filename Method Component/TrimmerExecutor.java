@@ -1,5 +1,5 @@
-class TimmerExecutor{
+class TrimmerExecutor{
 public static void main(String[] trimming){
-boolean shaving=Trimmer.isButton();
-System.out.println(shaving);
+Trimmer.increaseVolume();
+Trimmer.decreaseVolume();
 }}
